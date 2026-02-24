@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <h1>Build Modern Websites</h1>
       <p>
-        We create fast, scalable and professional websites using Next.js and React.
+        We create fast, scalable.
       </p>
       <button className="btn">Start Project</button>
     </div>
