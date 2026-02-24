@@ -26,8 +26,7 @@ export default function About() {
             </p>
 
             <p>
-              Our goal is to create websites that are fast, secure,
-              responsive and visually impressive.
+              Our goal is to create websites that are fast, secure.
             </p>
           </div>
 
