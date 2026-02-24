@@ -7,7 +7,7 @@ export default function ServicesPage() {
         <div className="container">
           <h1>Our Services</h1>
           <p>
-            Professional digital solutions to grow your business online.
+            Professional digital solutions.
           </p>
         </div>
       </section>
